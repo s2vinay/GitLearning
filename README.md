@@ -10,6 +10,8 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 :heart: :happy:
 
+<img alt="test" src="https://cloud.githubusercontent.com/assets/28564351/25853815/a814b002-34eb-11e7-9a25-0ac35d869db1.png" width="650">
+
 ```markdown
 Syntax highlighted code block
 
